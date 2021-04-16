@@ -1,0 +1,10 @@
+*.pyc
+*.txt
+*.pdf
+*.png
+*.html
+*.lay
+*.test
+*.solution
+support/
+CONFIG
